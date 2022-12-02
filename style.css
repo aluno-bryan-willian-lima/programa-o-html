@@ -7,12 +7,16 @@ body {
 }
 
 .principal{
-    background: #cccccc
-    padding 30px;
+    background: #b9b9b9;
+    padding: 30px;
 }
 
-h1{
-    text-align: center
+.titulo-principal{
+  padding-left: 20px;
+}
+
+.titulo-centralizado {
+   text-align: center
 }
 
 p{
@@ -37,9 +41,6 @@ em strong {
     padding: 20px;
 }
 
-h2 {
-   text-align: center;
-}
 
 ul {
     display: inline-block;
